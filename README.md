@@ -107,7 +107,7 @@ This project addresses these challenges with a trained classifier for eligibilit
 
 The Streamlit application is deployed and publicly accessible here:
 
-**🔗 [https://emi-predict-ai-app.streamlit.app](https://emi-predict-ai-app.streamlit.app/)**
+**🔗 [https://emi-predict-ai-app.streamlit.app](https://las9n5jdkanafvs2q38ick.streamlit.app)**
 
 Use it to try both modules directly in the browser, no local setup required:
 
