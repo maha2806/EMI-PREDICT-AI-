@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**🔗 Live App:** [emi-predict-ai-app.streamlit.app](https://emi-predict-ai-app.streamlit.app/)
+**🔗 Live App:** [emi-predict-ai-app.streamlit.app](https://las9n5jdkanafvs2q38ick.streamlit.app/)
 
 > An end-to-end Machine Learning project that predicts a loan applicant's **EMI eligibility** and their **maximum safe monthly EMI**, helping financial institutions make faster, more consistent, and data-driven lending decisions.
 
