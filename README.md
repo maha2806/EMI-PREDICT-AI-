@@ -570,7 +570,7 @@ Tuned via `RandomizedSearchCV`. Outperformed all other candidates on every regre
 
 # Installation Guide
 
-> Prefer not to install anything? Try the live app instead: [emi-predict-ai-app.streamlit.app](https://emi-predict-ai-app.streamlit.app/)
+> Prefer not to install anything? Try the live app instead: [emi-predict-ai-app.streamlit.app](https://las9n5jdkanafvs2q38ick.streamlit.app/)
 
 ```bash
 git clone <repository-url>
